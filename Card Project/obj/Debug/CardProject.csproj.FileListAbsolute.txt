@@ -1,0 +1,6 @@
+C:\Users\Gizon\Desktop\CardProject\Card Project\bin\Debug\CardProject.exe
+C:\Users\Gizon\Desktop\CardProject\Card Project\bin\Debug\CardProject.pdb
+C:\Users\Gizon\Desktop\CardProject\Card Project\obj\Debug\CardProject.csprojAssemblyReference.cache
+C:\Users\Gizon\Desktop\CardProject\Card Project\obj\Debug\CardProject.csproj.CoreCompileInputs.cache
+C:\Users\Gizon\Desktop\CardProject\Card Project\obj\Debug\CardProject.exe
+C:\Users\Gizon\Desktop\CardProject\Card Project\obj\Debug\CardProject.pdb
